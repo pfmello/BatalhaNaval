@@ -1,0 +1,6 @@
+C:\Users\phili\source\repos\ConsoleUI\BatleshipLibrary\bin\Debug\BatleshipLibrary.dll
+C:\Users\phili\source\repos\ConsoleUI\BatleshipLibrary\bin\Debug\BatleshipLibrary.pdb
+C:\Users\phili\source\repos\ConsoleUI\BatleshipLibrary\obj\Debug\BatleshipLibrary.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\ConsoleUI\BatleshipLibrary\obj\Debug\BatleshipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\ConsoleUI\BatleshipLibrary\obj\Debug\BatleshipLibrary.dll
+C:\Users\phili\source\repos\ConsoleUI\BatleshipLibrary\obj\Debug\BatleshipLibrary.pdb
